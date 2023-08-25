@@ -6,6 +6,10 @@
   "labels": [
     "renovate"
   ],
+  "timezone": "Asia/Tokyo",
+  "schedule": [
+    "before 1:07am"
+  ],
   "regexManagers": [
     {
       "fileMatch": [
